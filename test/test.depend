@@ -1,0 +1,182 @@
+# depslib dependency file v1.0
+1525953177 source:e:\研究生学习\编程练习\剑指offer\面试题3-二维数组中的查找.cpp
+	<iostream>
+
+1526001050 source:e:\研究生学习\编程练习\剑指offer\面试题4-替换空格.cpp
+	<iostream>
+
+1526633114 source:e:\研究生学习\编程练习\剑指offer\面试题5-从尾到头打印链表.cpp
+	<iostream>
+	<stack>
+	"ListNode.h"
+
+1526088244 source:e:\研究生学习\编程练习\剑指offer\面试题6-重建二叉树.cpp
+	<iostream>
+	<exception>
+
+1526126645 source:e:\研究生学习\编程练习\剑指offer\面试题7-用两个栈实现队列.cpp
+	<iostream>
+	<stack>
+
+1526296256 source:e:\研究生学习\编程练习\剑指offer\面试题8-旋转数组的最小数字.cpp
+	<iostream>
+
+1526303454 source:e:\研究生学习\编程练习\剑指offer\面试题10-二进制中1的个数.cpp
+	<iostream>
+
+1526304272 source:e:\研究生学习\编程练习\剑指offer\面试题11-数值的整数次方.cpp
+	<iostream>
+
+1526463085 source:e:\研究生学习\编程练习\剑指offer\面试题12-打印1到最大的n位数.cpp
+	<iostream>
+	<string.h>
+
+1526547893 source:e:\研究生学习\编程练习\剑指offer\面试题14-调整数组顺序使奇数位于偶数前面.cpp
+	<iostream>
+
+1526651226 e:\研究生学习\编程练习\剑指offer\listnode.h
+
+1526634275 source:e:\研究生学习\编程练习\剑指offer\面试题16-反转链表.cpp
+	<iostream>
+	"List.h"
+
+1526651154 source:e:\研究生学习\编程练习\剑指offer\面试题17-合并两个排序的链表.cpp
+	"list.h"
+
+1526651226 e:\研究生学习\编程练习\剑指offer\list.h
+	<iostream>
+	"ListNode.h"
+
+1526779432 source:e:\研究生学习\编程练习\剑指offer\面试题18-树的子结构.cpp
+	<iostream>
+	"BinaryTree.h"
+
+1526777654 e:\研究生学习\编程练习\剑指offer\binarytree.h
+	<iostream>
+	"BinaryTreeNode.h"
+
+1526777638 e:\研究生学习\编程练习\剑指offer\binarytreenode.h
+	<iostream>
+
+1526819134 source:e:\研究生学习\编程练习\剑指offer\面试题19-二叉树的镜像.cpp
+	<iostream>
+	"BinaryTree.h"
+
+1526948198 source:e:\研究生学习\编程练习\剑指offer\面试题20-顺时针打印矩阵.cpp
+	<iostream>
+	<string.h>
+
+1527075598 source:e:\研究生学习\编程练习\剑指offer\面试题23-从上到下打印二叉树.cpp
+	<iostream>
+	<queue>
+	"BinaryTree.h"
+
+1527161716 source:e:\研究生学习\编程练习\剑指offer\面试题24-二叉搜索树的后序遍历序列.cpp
+	<iostream>
+	"BinaryTree.h"
+
+1527170976 source:e:\研究生学习\编程练习\剑指offer\面试题25-二叉树中和为某一值的路径.cpp
+	<iostream>
+	"BinaryTree.h"
+	<vector>
+
+1527310946 source:e:\研究生学习\编程练习\剑指offer\面试题26-复杂链表的复制.cpp
+	<iostream>
+
+1527490884 source:e:\研究生学习\编程练习\剑指offer\面试题28-字符串的排列.cpp
+	<iostream>
+	<string.h>
+	<vector>
+
+1527506521 source:e:\研究生学习\编程练习\剑指offer\面试题29-数组中出现次数超过一半的数字.cpp
+	<iostream>
+
+1527577005 source:e:\研究生学习\编程练习\剑指offer\面试题30-最小的k个数.cpp
+	<iostream>
+	<set>
+	<vector>
+
+1527845443 source:f:\研究生学习\编程练习\剑指offer\面试题35-第一个只出现一次的字符.cpp
+	<iostream>
+
+1527858174 source:f:\研究生学习\编程练习\剑指offer\面试题36-数组中的逆序对.cpp
+	<iostream>
+	<vector>
+
+1528025649 source:f:\研究生学习\编程练习\剑指offer\面试题48-不能被继承的类.cpp
+	<iostream>
+
+1528026311 source:f:\研究生学习\编程练习\剑指offer\面试题49-把字符串转换成整数.cpp
+	<iostream>
+
+1528033686 source:f:\研究生学习\编程练习\剑指offer\面试题51-数组中重复的数字.cpp
+	<iostream>
+	<vector>
+
+1528183820 source:f:\研究生学习\编程练习\剑指offer\面试题52-构建乘积数组.cpp
+	<iostream>
+	<vector>
+
+1528184050 source:f:\研究生学习\编程练习\剑指offer\面试题53-正则表达式匹配.cpp
+	<iostream>
+
+1528198489 source:f:\研究生学习\编程练习\剑指offer\面试题54-表示数值的字符串.cpp
+	<iostream>
+
+1528199937 source:f:\研究生学习\编程练习\剑指offer\面试题55-字符流中第一个不重复的字符.cpp
+	<iostream>
+
+1528206265 source:f:\研究生学习\编程练习\剑指offer\面试题57-删除链表中重复的节点.cpp
+	<iostream>
+	"List.h"
+
+1528203523 f:\研究生学习\编程练习\剑指offer\list.h
+	<iostream>
+	"ListNode.h"
+
+1526651228 f:\研究生学习\编程练习\剑指offer\listnode.h
+
+1528250492 source:f:\研究生学习\编程练习\剑指offer\面试题58-二叉树的下一个节点.cpp
+	<iostream>
+
+1526777656 f:\研究生学习\编程练习\剑指offer\binarytree.h
+	<iostream>
+	"BinaryTreeNode.h"
+
+1526777640 f:\研究生学习\编程练习\剑指offer\binarytreenode.h
+	<iostream>
+
+1528253244 source:f:\研究生学习\编程练习\剑指offer\面试题59-对称的二叉树.cpp
+	<iostream>
+	"BinaryTree.h"
+
+1528253890 source:f:\研究生学习\编程练习\剑指offer\面试题60-把二叉树打印成多行.cpp
+	<iostream>
+	"BinaryTree.h"
+
+1528275679 source:f:\研究生学习\编程练习\剑指offer\面试题63-二叉搜索树的第k个节点.cpp
+	<iostream>
+	<queue>
+	"BinaryTree.h"
+
+1528284114 source:f:\研究生学习\编程练习\剑指offer\面试题64-数据流中的中位数.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1528284743 source:f:\研究生学习\编程练习\剑指offer\面试题65-滑动窗口的最大值.cpp
+	<iostream>
+	<deque>
+
+1528290506 source:f:\研究生学习\编程练习\剑指offer\面试题66-矩阵中的路径.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<string.h>
+
+1528291352 source:f:\研究生学习\编程练习\剑指offer\面试题67-机器人的运动范围.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<string.h>
+
